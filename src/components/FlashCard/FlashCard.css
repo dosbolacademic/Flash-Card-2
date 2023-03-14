@@ -93,3 +93,47 @@ body {
     margin-top: 20px;
   }
   
+
+.Buttons{
+  position: relative;
+  left:10px;
+  bottom:20px; /* Adjust the left position as needed */
+ /* Position the button vertically in the middle */
+ /* Move the button up by half its height */
+}
+
+.GuessNumber{
+  color:yellow;
+
+}
+
+.FormButton {
+  background-color: #00509d; /* set the background color */
+  color: white; /* set the text color */
+  padding: 10px; /* add some padding */
+  border-radius: 10px; /* set the border radius to create rounded corners */
+  z-index: 9999;
+}
+
+.FormButton input[type="submit"] {
+  background-color: #008cdd; /* set the background color of the submit button */
+  color: white; /* set the text color of the submit button */
+  border: none; /* remove the border around the submit button */
+  padding: 10px; /* add some padding to the submit button */
+  border-radius: 10px; /* set the border radius to create rounded corners */
+  cursor: pointer; /* change the cursor to a pointer when hovering over the submit button */
+  margin-top: 10px; /* add some margin to the top of the submit button */
+
+}
+
+.FormButton input[type="submit"]:hover {
+  background-color: #00509d; /* change the background color of the submit button when hovering over it */
+}
+
+
+.Shuffle{
+  background-color: #008cdd; /* set the background color of the submit button */
+  color: white;
+}
+
+

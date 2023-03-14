@@ -7,6 +7,7 @@ h1 {
   
   h2 {
     color: cyan;
+    
     text-align: center;
     position: relative;
   left: 275px;
@@ -14,7 +15,8 @@ h1 {
   }
   
   h3 {
-    color: cyan;
+    color: red;
+
     text-align: center;
     position: relative;
   left: 275px;

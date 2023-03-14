@@ -1,4 +1,4 @@
-const questions = [
+let questions = [
     {
       id: 1,
       question: "1. What is the capital of France?",
