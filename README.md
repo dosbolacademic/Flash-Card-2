@@ -32,20 +32,15 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<a href="https://www.loom.com/share/1d45552788604ce8a4951d5743832790">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1d45552788604ce8a4951d5743832790-with-play.gif">
+  </a>
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+The most challenging part of this project was creating the "Mastered Button." I spent a lot of time on it, and I even went to office hours for help. Additionally, determining the Similarity Threshold was not easy. I had to do a lot of research, and I mostly relied on resources from the internet.
 
 ## License
 
